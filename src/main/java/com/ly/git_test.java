@@ -10,5 +10,7 @@ public class git_test {
         System.out.println("2022年7月14日23:44:51   pull test");
         System.out.println("2022年7月14日23:44:51   pull test");
         System.out.println("2022年7月14日23:44:51   pull test");
+
+        sout。。。
     }
 }
